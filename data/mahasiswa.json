@@ -1,0 +1,23 @@
+[
+        {
+        "nama":"arifin",
+        "nrp":"7383928",
+        "email":"arifin@gmail.com",
+        "jurusan":"frontend",
+        "idDosen":1
+    },
+        {
+        "nama":"dody",
+        "nrp":"7739928",
+        "email":"dody@gmail.com",
+        "jurusan":"beckend",
+        "idDosen":2
+    },
+        {
+        "nama":"alex",
+        "nrp":"69329822",
+        "email":"alex@gmail.com",
+        "jurusan":"ux",
+        "idDosen":3
+    }
+    ]
